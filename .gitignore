@@ -1,0 +1,6 @@
+logs/
+out/
+scratchpad/
+.ruff_cache/
+__pycache__/
+.venv/
